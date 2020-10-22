@@ -1,0 +1,10 @@
+www.google.com,0.0.0.0
+www.fb.com,1.1.1.1
+www.youtube.com,2.2.2.2
+www.cf.com,3.3.3.3
+www.yahoo.com,4.4.4.4
+www.iitg.ac.in,5.5.5.5
+www.instagram.com,6.6.6.6
+www.linkdin.com,7.7.7.7
+www.ganna.com,8.8.8.8
+www.spotify.com,9.9.9.9
